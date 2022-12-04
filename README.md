@@ -1,2 +1,2 @@
-# FlexBoxCss-DIO
+# FlexBoxCss
 Projeto FlexBox
